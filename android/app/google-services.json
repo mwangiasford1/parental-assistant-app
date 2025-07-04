@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094230363784",
+    "project_id": "parental-assistant",
+    "storage_bucket": "parental-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094230363784:android:1d16fb2dcdf8c08078593d",
+        "android_client_info": {
+          "package_name": "com.example.parental_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgWoJN4roMBwL_SsF1U9QBgBfJ_5-xUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
