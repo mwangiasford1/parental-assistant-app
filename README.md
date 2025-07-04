@@ -15,7 +15,7 @@ A cross-platform Flutter app to help families manage safety, learning, communica
   - Custom welcome message after registration based on user role
 
 - **Chat & Messaging**
-  - Chat with ChatGPT (AI assistant) for advice, emotional support, and more
+  
   - Real-time user-to-user messaging (parent ↔ child, parent ↔ nanny, etc.)
     - Conversation selector
     - Unread message badges
